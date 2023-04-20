@@ -1,3 +1,3 @@
 ## Linux
-# Sell Script Programming
+Sell Script Programming
 Assignment Quetions 
